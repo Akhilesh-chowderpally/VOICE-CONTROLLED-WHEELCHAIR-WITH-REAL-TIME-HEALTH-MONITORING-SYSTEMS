@@ -1,0 +1,2 @@
+# VOICE-CONTROLLED-WHEELCHAIR-WITH-REAL-TIME-HEALTH-MONITORING-SYSTEMS
+A wheelchair that listens and plays nice with a joystick, while keeping tabs on health in real time. The Nano sends voice or joystick commands over NRF24L01. The Uno takes over, driving the relay H-Bridge and 24V Geared motors. It’s quick, offline, and steady dual control, solid SPI radio, and modular vitals for safe, everyday mobility.
